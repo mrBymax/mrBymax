@@ -39,10 +39,18 @@ Here you can find a summary of what has been (and will be) my journey as a Softw
 
 <details>
  <summary><h3>My Coding Journey 👨🏻‍💻</h3></summary>
-   I'm working on it, stay tuned :)
+   <i>I'm working on it, stay tuned :)</i>
+    <br/>
+    
+#### 2022
+   <ul>
+    <li> 1 Month Internship - ScuolaZoo [Data Scientist Intern]</li>
+    <li> 8 Months Contract - ScuolaZoo [JR Data Scientist]</li>
+    <li> Joined MadrHacks (Google us! 🐍)</li>
+    <li> Started my Journey in UniUD as a CS Student 🤞🏻</li>
+   </ul>
 
 [linkedin]: https://linkedin.com/federico-bertossi
-
 [website]:  https://www.youtube.com/watch?v=yS6LYj-y1HA
 
 </details>
