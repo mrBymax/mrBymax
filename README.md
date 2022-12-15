@@ -51,6 +51,6 @@ Here you can find a summary of what has been (and will be) my journey as a Softw
    </ul>
 
 [linkedin]: https://linkedin.com/federico-bertossi
-[website]:  https://www.youtube.com/watch?v=yS6LYj-y1HA
+[website]:  https://www.federicobertossi.com
 
 </details>
