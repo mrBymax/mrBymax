@@ -46,12 +46,12 @@ Here you can find a summary of what has been (and will be) my journey as a Softw
 
 <ul>
    <l1> 3rd Place **Logitech** Challenge - Hackzurich 2023 </l1>
-   <li> **3rd Place** in Italy with MadrHacks </li>
+   <li> <b>3rd Place** in Italy with MadrHacks </b> </li>
 </ul>
 
 #### 2022
    <ul>
-    <li> 2nd Place **Year 2222** Challenge - Junction 2022
+    <li> 2nd Place <br> Year 2222 </br> Challenge - Junction 2022
     <li> 1 Month Internship - ScuolaZoo [Data Scientist Intern]</li>
     <li> 8 Months Contract - ScuolaZoo [JR Data Scientist]</li>
     <li> Joined MadrHacks (Google us! 🐍)</li>
