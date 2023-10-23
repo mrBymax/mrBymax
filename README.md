@@ -45,8 +45,8 @@ Here you can find a summary of what has been (and will be) my journey as a Softw
 #### 2023
 
 <ul>
-   <l1> 3rd Place **Logitech** Challenge - Hackzurich 2023 </l1>
-   <li> <b>3rd Place** in Italy with MadrHacks </b> </li>
+   <l1> 3rd Place <br> Logitech </br> Challenge - Hackzurich 2023 </l1>
+   <li> <b>3rd Place</b> in Italy with MadrHacks </li>
 </ul>
 
 #### 2022
