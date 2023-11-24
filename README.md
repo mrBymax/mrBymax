@@ -33,7 +33,7 @@ Here you can find a summary of what has been (and will be) my journey as a Softw
 
 ### 📊 Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrBymax&show_icons=true&theme=dracula)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrBymax&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula)
 
 #
 
