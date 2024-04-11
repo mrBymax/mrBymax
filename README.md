@@ -35,9 +35,8 @@ Here you can find a summary of what has been (and will be) my journey as a Softw
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrBymax&show_icons=true&theme=dracula) -->
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+<!--START_SECTION:locale-->
+<!--END_SECTION:locale-->
 
 
 [linkedin]: https://linkedin.com/federico-bertossi
