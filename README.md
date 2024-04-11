@@ -4,6 +4,8 @@
 
 [//]: # (Thanks to @ForrestKnight for the inspiration.)
 
+<!-- TODO: Insert a banner image -->
+
 I am just a normal Computer Science student. 💻 </br>
 Here you can find a summary of what has been (and will be) my journey as a Software Developer, stay tuned :)
 
@@ -16,7 +18,10 @@ Here you can find a summary of what has been (and will be) my journey as a Softw
 
 ---
 
+<!-- TODO: Insert a GIF -->
 ### Languages and Tools 🧰
+
+<!-- TODO: Change it with shields -->
 
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
