@@ -33,10 +33,17 @@ Here you can find a summary of what has been (and will be) my journey as a Softw
 
 ### 📊 Stats
 
+<<<<<<< Updated upstream
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrBymax&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula)
+=======
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrBymax&show_icons=true&theme=dracula) -->
+>>>>>>> Stashed changes
 
-#
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
+
+<<<<<<< Updated upstream
 <details>
  <summary><h3>My Coding Journey 👨🏻‍💻</h3></summary>
    <i>I'm working on it, stay tuned :)</i>
@@ -57,6 +64,8 @@ Here you can find a summary of what has been (and will be) my journey as a Softw
     <li> Joined MadrHacks (Google us! 🐍)</li>
     <li> Started my Journey in UniUD as a CS Student 🤞🏻</li>
    </ul>
+=======
+>>>>>>> Stashed changes
 
 [linkedin]: https://linkedin.com/federico-bertossi
 [website]:  https://www.federicobertossi.com
