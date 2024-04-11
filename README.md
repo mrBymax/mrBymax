@@ -41,6 +41,77 @@ Here you can find a summary of what has been (and will be) my journey as a Softw
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrBymax&show_icons=true&theme=dracula) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                472 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+🌆 Daytime                1118 commits        ████████████░░░░░░░░░░░░░   48.44 % 
+🌃 Evening                605 commits         ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+🌙 Night                  113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   510 commits         ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+Tuesday                  367 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Wednesday                293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Thursday                 294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Friday                   310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Saturday                 285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Sunday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Vienna
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   22 repos            █████████░░░░░░░░░░░░░░░░   35.48 % 
+C++                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+TeX                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Racket                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mrBymax/mrBymax/main/assets/bar_graph.png)
+
+
+ Last Updated on 11/04/2024 15:24:07 UTC
 <!--END_SECTION:waka-->
 
 
