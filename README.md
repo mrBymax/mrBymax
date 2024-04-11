@@ -33,39 +33,12 @@ Here you can find a summary of what has been (and will be) my journey as a Softw
 
 ### 📊 Stats
 
-<<<<<<< Updated upstream
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrBymax&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula)
-=======
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrBymax&show_icons=true&theme=dracula) -->
->>>>>>> Stashed changes
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-<<<<<<< Updated upstream
-<details>
- <summary><h3>My Coding Journey 👨🏻‍💻</h3></summary>
-   <i>I'm working on it, stay tuned :)</i>
-    <br/>
-
-#### 2023
-
-<ul>
-   <li> 3rd Place <b> Logitech </b> Challenge - Hackzurich 2023 </li>
-   <li> <b>3rd Place</b> in Italy with MadrHacks </li>
-</ul>
-
-#### 2022
-   <ul>
-    <li> 2nd Place <b> Year 2222 </b> Challenge - Junction 2022
-    <li> 1 Month Internship - ScuolaZoo [Data Scientist Intern]</li>
-    <li> 8 Months Contract - ScuolaZoo [JR Data Scientist]</li>
-    <li> Joined MadrHacks (Google us! 🐍)</li>
-    <li> Started my Journey in UniUD as a CS Student 🤞🏻</li>
-   </ul>
-=======
->>>>>>> Stashed changes
 
 [linkedin]: https://linkedin.com/federico-bertossi
 [website]:  https://www.federicobertossi.com
