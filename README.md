@@ -73,16 +73,16 @@ Sunday                   263 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Markdown                 8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Obsidian                 8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Obsidian Vault           8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +102,7 @@ TeX                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mrBymax/mrBymax/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2024 18:41:15 UTC
+ Last Updated on 02/08/2024 18:41:27 UTC
 <!--END_SECTION:waka-->
 
 
