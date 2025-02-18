@@ -6,7 +6,7 @@
 
 <!-- TODO: Insert a banner image -->
 
-I am just a normal Computer Science student. 💻 </br>
+Hey! 👋</br>
 Here you can find a summary of what has been (and will be) my journey as a Computer Scientist, stay tuned :)
 
    <p>
