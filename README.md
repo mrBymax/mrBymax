@@ -46,8 +46,10 @@ On my OS of choice:
 
 
 #
+### 📊 LeetCode Stats
+![My LeetCode stats](https://leetcard.jacoblin.cool/mrBymax?theme=dark&font=Fira%20Mono)
 
-### 📊 Stats
+### 📊 GitHub Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrBymax&show_icons=true&theme=dracula)
 
