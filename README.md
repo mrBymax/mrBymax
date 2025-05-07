@@ -54,67 +54,6 @@ On my OS of choice:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrBymax&show_icons=true&theme=dracula)
 
 
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                846 commits         ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-🌆 Daytime                1993 commits        █████████████░░░░░░░░░░░░   52.75 % 
-🌃 Evening                672 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-🌙 Night                  267 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   610 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Tuesday                  521 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Wednesday                490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Thursday                 600 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Friday                   540 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Saturday                 560 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Sunday                   457 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Vienna
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-C++                      9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-MATLAB                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Haskell                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/mrBymax/mrBymax/main/assets/bar_graph.png)
-
-
- Last Updated on 25/04/2025 18:49:34 UTC
-<!--END_SECTION:waka-->
-
-
 [linkedin]: https://linkedin.com/federico-bertossi
 [website]:  https://www.federicobertossi.com
 
