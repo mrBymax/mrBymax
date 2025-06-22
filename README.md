@@ -1,11 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Federico+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Hi+I'm+Federico+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub+Profile!;Enjoy!;Contacts+below+%E2%AC%87%EF%B8%8F)](https://git.io/typing-svg)
+
 
 ![GitHub followers](https://img.shields.io/github/followers/mrBymax)
 ![GitHub User's stars](https://img.shields.io/github/stars/mrBymax)
 
 ---
 
-I am a Computer Science Student at the University of Udine, a CTF player and Tutor for MadrHacks. 
+I am a Computer Science Student at the University of Udine, a CTF player and a WebSec Tutor for MadrHacks. 
 
 ## Some stats
 ### GitHub Stats
