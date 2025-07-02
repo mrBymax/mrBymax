@@ -10,7 +10,9 @@ I am a Computer Science Student at the University of Udine, a CTF player and a W
 
 ## Some stats
 ### GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrBymax&show_icons=true&hide_rank=true&theme=dracula)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrBymax&show_icons=false&hide_rank=true&include_all_commits=false&hide=issues,contribs&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrBymax&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### LeetCode Stats
 ![My LeetCode stats](https://leetcard.jacoblin.cool/mrBymax?theme=dark&font=Fira%20Mono)
