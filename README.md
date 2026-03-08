@@ -13,6 +13,8 @@ I've always loved competitive programming and solving algorithmic problems. I am
 
 As part of @MadrHacks, I’ve achieved top global CTF rankings (1st in Italy, 37th worldwide) while mentoring students and building projects spanning distributed systems, databases, and machine learning. My focus is on scalable architectures, algorithms, and backend systems that combine technical precision with real-world impact.
 
+In 2026 I joined the Tech team of @LeadTheFuture after being a mentee since 2024. I was among the few Italian students selected to be mentees for LeadTheFuture, a leading mentorship non-profit organization for students in STEM, with acceptance rate below 20%. LeadTheFuture empowers top-performing students to achieve their goals and contribute to their communities by giving them one-on-one guidance from high-impact mentors coming from the world's leading STEM innovation hubs such as Silicon Valley and CERN. 
+
 ## Some stats
 
 <!--
